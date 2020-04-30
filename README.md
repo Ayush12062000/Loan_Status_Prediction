@@ -20,3 +20,6 @@ Loan_status is target variable'''
 After Cleaning the data (Filling Null data, converting String into integer) , I have used Various Classification Algorithms.(COZ it's Classification Problem)
 Decision Tree Gave better Results.
 
+
+And Uploading CSV file as well.......
+
