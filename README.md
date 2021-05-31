@@ -15,6 +15,7 @@
 
 ## Installation Commands
 Install the required packages using requirements.txt inside the environemnt using pip.
+<br/> <br/>
 	```
 	$ pip install -r requirements.txt
 	```
