@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-> Building a model that predicts whether the customer will repay loan or not.
+> Building a model that predicts whether the customer will get a loan or not.
 
 ## Dependency Libraries
 
