@@ -1,4 +1,4 @@
-# Credit Risk Analysis
+# Loan Status Prediction
 
 > Building a model that predicts whether the customer will get a loan or not.
 
