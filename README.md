@@ -19,3 +19,11 @@ Install the required packages using requirements.txt inside the environemnt usin
 	```
 	$ pip install -r requirements.txt
 	```
+
+## Deployed Link
+<br/> 
+https://prediction-loan-status.herokuapp.com/
+
+<br/>
+Use this link to Get the predictions on whether you will get LOAN or NOT.
+	
